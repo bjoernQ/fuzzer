@@ -1,0 +1,9 @@
+[package]
+name = "fuzzer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+xshell = "0.2.3"
+regex = "1.9.1"
+home = "0.5.5"

@@ -1,0 +1,5 @@
+**/target
+scratch
+**/libout.a
+outRust
+**/tst.rs
